@@ -1,2 +1,2 @@
 # Listasbrasil
-Lista do Hackerspaces Brasileiros
+Lista dos Hackerspaces/Makerspaces Brasileiros
