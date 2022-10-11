@@ -43,16 +43,18 @@ ________________________________________________________
 [Instagram](https://www.instagram.com/gerserobotica/?igshid=YmMyMTA2M2Y%3D) | 
 
 ________________________________________________________
-## 
+## Casa Hacker
 Endereço:
 
-[site]() | 
-[Facebook]() | 
-[Instagram]() | 
-[Twitter]() | 
-[YouTube]() | 
-[GitHub]() | 
-
+[site](https://www.casahacker.org/) | 
+[Facebook](https://www.facebook.com/casahackercampinas/) | 
+[Instagram](https://www.instagram.com/casahacker/) | 
+[Twitter](https://twitter.com/casahacker) | 
+[YouTube](https://www.youtube.com/channel/UCVeJ-zFaIyGyQtaqeupuV5w) | 
+[GitLab](https://gitlab.com/casahacker) | 
+[Medium](https://medium.com/casahacker) |
+[Linkedin](https://www.linkedin.com/company/casahacker/?originalSubdomain=br) |
+[Tik Tok](https://www.tiktok.com/@casahacker) |
 ________________________________________________________
 ## 
 Endereço:
