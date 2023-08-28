@@ -12,18 +12,21 @@
 [GitHub](https://github.com/ABCMakerspace) | 
 
 ________________________________________________________
-## Laboratório Hacker de Campinas - LHC
 
+## Casa Hacker
+Endereço:
 
-[site](https://lhc.net.br/) | 
-[Facebook](https://www.facebook.com/LabHackerCampinas/) | 
-[Instagram](https://www.instagram.com/lhcnetbr/) | 
-[Twitter](https://twitter.com/lhc_campinas) | 
-[YouTube](https://www.youtube.com/c/LhcNetBr) | 
-[GitHub](https://github.com/lhc) | 
-[PeerTube](https://peertube.lhc.net.br/) | 
-
+[site](https://www.casahacker.org/) | 
+[Facebook](https://www.facebook.com/casahackercampinas/) | 
+[Instagram](https://www.instagram.com/casahacker/) | 
+[Twitter](https://twitter.com/casahacker) | 
+[YouTube](https://www.youtube.com/channel/UCVeJ-zFaIyGyQtaqeupuV5w) | 
+[GitLab](https://gitlab.com/casahacker) | 
+[Medium](https://medium.com/casahacker) |
+[Linkedin](https://www.linkedin.com/company/casahacker/?originalSubdomain=br) |
+[Tik Tok](https://www.tiktok.com/@casahacker) |
 ________________________________________________________
+
 ## Garoa Hacker Clube
 
 
@@ -43,18 +46,17 @@ ________________________________________________________
 [Instagram](https://www.instagram.com/gerserobotica/?igshid=YmMyMTA2M2Y%3D) | 
 
 ________________________________________________________
-## Casa Hacker
-Endereço:
+## Laboratório Hacker de Campinas - LHC
 
-[site](https://www.casahacker.org/) | 
-[Facebook](https://www.facebook.com/casahackercampinas/) | 
-[Instagram](https://www.instagram.com/casahacker/) | 
-[Twitter](https://twitter.com/casahacker) | 
-[YouTube](https://www.youtube.com/channel/UCVeJ-zFaIyGyQtaqeupuV5w) | 
-[GitLab](https://gitlab.com/casahacker) | 
-[Medium](https://medium.com/casahacker) |
-[Linkedin](https://www.linkedin.com/company/casahacker/?originalSubdomain=br) |
-[Tik Tok](https://www.tiktok.com/@casahacker) |
+
+[site](https://lhc.net.br/) | 
+[Facebook](https://www.facebook.com/LabHackerCampinas/) | 
+[Instagram](https://www.instagram.com/lhcnetbr/) | 
+[Twitter](https://twitter.com/lhc_campinas) | 
+[YouTube](https://www.youtube.com/c/LhcNetBr) | 
+[GitHub](https://github.com/lhc) | 
+[PeerTube](https://peertube.lhc.net.br/) | 
+
 ________________________________________________________
 ## 
 Endereço:
