@@ -128,15 +128,11 @@ Salvador - BA
 
 ________________________________________________________
 ## Rio Maker Space
-Endereço:
+Rio de Janeiro - RJ
 
-[site]() | 
-[Facebook]() | 
-[Instagram]() | 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
-[Linkedin]()
+[site](https://www.riomakerspace.com.br/) | 
+[Instagram](https://www.instagram.com/rio_maker_space/) 273 | 
+[Linkedin](https://www.linkedin.com/company/riomakerspace/about/)
 
 ________________________________________________________
 ## Teresina Hacker Clube
@@ -155,7 +151,6 @@ Só achados pela internet, ainda não consegui contato
 Londrina - PR
 
 [site](https://www.londrinahackerclub.com.br/) | 
- 
 [Linkedin](https://www.linkedin.com/company/londrina-hacker-club/)
 
 ________________________________________________________
@@ -170,23 +165,13 @@ Endereço:
 ________________________________________________________
 
 ## Observações:
-Números na frente do link do Instagram é de seguidores em 11/03/2024
+Números na frente do link do Instagram é de seguidores em 11/03/2024.
+
+Não coloquei grupos de Telegram e email devido aos bots.
 
 
 
 
 
 ________________________________________________________
-## Casa Hacker
-Endereço:
 
-[site](https://www.casahacker.org/) | 
-[Facebook](https://www.facebook.com/casahackercampinas/) | 
-[Instagram](https://www.instagram.com/casahacker/) | 
-[Twitter / X](https://twitter.com/casahacker) | 
-[YouTube](https://www.youtube.com/channel/UCVeJ-zFaIyGyQtaqeupuV5w) | 
-[GitLab](https://gitlab.com/casahacker) | 
-[Medium](https://medium.com/casahacker) |
-[Linkedin](https://www.linkedin.com/company/casahacker) |
-[Tik Tok](https://www.tiktok.com/@casahacker) |
-________________________________________________________
