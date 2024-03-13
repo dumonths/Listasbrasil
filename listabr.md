@@ -7,7 +7,7 @@ ABC Paulista - SP
 
 [Site](https://abcmakerspace.com.br/) | 
 [Facebook](https://www.facebook.com/abcmakerspace) | 
-[Instagram](https://www.instagram.com/abcmakerspace/) 456| 
+[Instagram](https://www.instagram.com/abcmakerspace/) 456 | 
 [Twitter / X](https://twitter.com/abcmakerspace) | 
 [YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ) | 
 [GitHub](https://github.com/ABCMakerspace) | 
@@ -18,10 +18,10 @@ ________________________________________________________
 Caraúbas - RN
 
 [site](https://www.caborehs.org/) | 
-[Instagram](https://www.instagram.com/caborehackerspace) 70| 
+[Instagram](https://www.instagram.com/caborehackerspace) 70 | 
 [Twitter / X](https://twitter.com/caborehs) | 
 [GitHub](https://github.com/caborehs) | 
-[Linkedin]()
+
 
 
 ________________________________________________________
@@ -30,17 +30,17 @@ Asa Sul - DF
 
 [site](https://www.calango.club) | 
 [Facebook](https://www.facebook.com/calangohc) | 
-[Instagram](https://www.instagram.com/calangoh4cker/) 1082| 
+[Instagram](https://www.instagram.com/calangoh4cker/) 1082 | 
 [Twitter / X](https://twitter.com/calangohc) | 
 [YouTube](https://www.youtube.com/c/+CalangohackerClub) | 
-[Linkedin]()
+
 
 
 ________________________________________________________
 ## Chapéu de Palha Hacker Club
 Araraquara - SP
 
-[Instagram](https://www.instagram.com/chapeudepalhahackerclub/) 748| 
+[Instagram](https://www.instagram.com/chapeudepalhahackerclub/) 748 | 
 [Linkedin](https://www.linkedin.com/company/chap%C3%A9u-de-palha-hacker-club/)
 
 ________________________________________________________
@@ -48,25 +48,25 @@ ________________________________________________________
 O hackerspace dos hackerspaces, esta em eventos por todo o Brasil
  
 [Facebook](https://www.facebook.com/DumontHackerspace/) | 
-[Instagram](https://www.instagram.com/dumonths) 1771| 
+[Instagram](https://www.instagram.com/dumonths) 1771 | 
 [Twitter / X](https://twitter.com/dumonths) | 
 [GitHub](https://github.com/dumonths) | 
 ________________________________________________________
 
 
 ## Garoa Hacker Clube
-
+São Paulo - SP
 
 [site](https://garoa.net.br/) | 
 [Facebook](https://www.facebook.com/GaroaHC/) | 
-[Instagram](https://www.instagram.com/garoahc/) 2101| 
+[Instagram](https://www.instagram.com/garoahc/) 2101 | 
 [Twitter / X](https://twitter.com/garoahc) | 
 [YouTube](https://www.youtube.com/channel/UCwY5dKKi8CWsv5_K9csmaew) | 
 [GitHub](https://github.com/garoa) | 
 [Linkedin](https://www.linkedin.com/company/garoa-hacker-clube/)
 ________________________________________________________
 ## GERSE - Grupo de Estudo em Robótica e Sistemas Embarcados
-
+Guarulhos - SP
 
 [site](http://gerserobotica.com/) Offline | 
 [Facebook](https://www.facebook.com/gerserobot) | 
@@ -75,49 +75,45 @@ ________________________________________________________
 
 ________________________________________________________
 ## Laboratório Hacker de Campinas - LHC
-
+Campinas - SP
 
 [site](https://lhc.net.br/) | 
 [Facebook](https://www.facebook.com/LabHackerCampinas/) | 
-[Instagram](https://www.instagram.com/lhcnetbr/) 475| 
+[Instagram](https://www.instagram.com/lhcnetbr/) 475 | 
 [Twitter / X](https://twitter.com/lhc_campinas) | 
 [YouTube](https://www.youtube.com/c/LhcNetBr) | 
 [GitHub](https://github.com/lhc) | 
+[Linkedin](https://www.linkedin.com/company/laboratorio-hacker-de-campinas/) | 
 [PeerTube](https://peertube.lhc.net.br/) | 
-[Linkedin](https://www.linkedin.com/company/laboratorio-hacker-de-campinas/)
 ________________________________________________________
 ## Maringá Hackerspace
 Maringá - PR
 
 [site](http://wiki.hackerspace.maringa.br/) | 
 [Facebook](https://www.facebook.com/hackerspacemaringa) | 
-[Instagram](https://www.instagram.com/hackerspacemaringa) 599| 
+[Instagram](https://www.instagram.com/hackerspacemaringa) 599 | 
 [YouTube](https://www.youtube.com/@hackerspacemaringa2820) | 
 [GitHub](https://github.com/HackerSpaceMaringa) | 
 
 
 ________________________________________________________
 ## Mate Hackers
-Endereço:
+Porto Alegre - RS
 
-[site]() | 
-[Facebook]() | 
-[Instagram]() 267| 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
-[Linkedin]()
+[site](https://matehackers.org/) | 
+ 
+[Instagram](https://www.instagram.com/matehackers_/) 267 | 
+
 
 ________________________________________________________
 ## Oxe Hacker Club
-Endereço:
+Maceió - AL
 
-[site]() | 
-[Facebook]() | 
-[Instagram]() | 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
+[site](http://oxehacker.club/) | 
+[Facebook](https://www.facebook.com/0xehackerclub/) | 
+[Instagram](https://www.instagram.com/0xehackerclub/) 2269 | 
+[Twitter / X](https://twitter.com/0xehackerclub) | 
+[YouTube](https://www.youtube.com/channel/UCyp9qyOaS9qhJ0lmRcjGesg) | 
 [Linkedin](https://www.linkedin.com/company/0xehackerclub/)
 
 ________________________________________________________
@@ -125,11 +121,9 @@ ________________________________________________________
 Salvador - BA
 
 [site](https://raulhc.cc/) | 
-[Facebook]() | 
-[Instagram]() | 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
+[Facebook](https://www.facebook.com/raulhackerclub) | 
+[Instagram](https://www.instagram.com/raulhackerclub/) 1328 | 
+[Twitter / X](https://twitter.com/RaulHackerClub) | 
 [Linkedin](https://www.linkedin.com/company/raul-hacker-club/)
 
 ________________________________________________________
@@ -149,7 +143,7 @@ ________________________________________________________
 Teresina - PI
 
 [site](https://teresinahc.github.io/) | 
-[Instagram](https://www.instagram.com/teresinahc/) 1074| 
+[Instagram](https://www.instagram.com/teresinahc/) 1074 | 
 [Twitter / X](https://twitter.com/teresinahc) | 
 [GitHub](https://github.com/teresinahc) | 
 [Linkedin](https://www.linkedin.com/company/teresina-hacker-clube/)
@@ -171,10 +165,6 @@ Endereço:
 [site](http://oestehc.com.br/) | 
 [Facebook](https://www.facebook.com/OesteHC
 ) | 
-[Instagram]() | 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
 [Linkedin](https://www.linkedin.com/company/oeste-hacker-club/)
 
 ________________________________________________________
