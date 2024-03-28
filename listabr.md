@@ -100,8 +100,7 @@ ________________________________________________________
 ## Mate Hackers <img src="https://github.com/dumonths/logos/blob/main/MATE.png" height="25%" width="25%" alt="Logotipo Mate Hackers">
 Porto Alegre - RS
 
-[site](https://matehackers.org/) | 
- 
+[site](https://matehackers.org/) |
 [Instagram](https://www.instagram.com/matehackers_/) 267 | 
 
 
@@ -315,6 +314,7 @@ Números na frente do link do Instagram é de seguidores em 11/03/2024.
 Não coloquei grupos de Telegram e email devido aos bots.
 
 Hackerspaces brasileiros:
+
 [Ativos em 2017 segundo Autoria em Rede](https://autoriaemrede.wordpress.com/hackerspaces-no-brasil/lista-dos-hackerspaces-ativos/)
 
 [Registrados na Wiki do Garoa Hacker Clube](https://garoa.net.br/wiki/Hackerspaces_Brasileiros)
