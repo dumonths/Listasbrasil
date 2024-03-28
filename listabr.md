@@ -163,15 +163,165 @@ Endereço:
 [Linkedin](https://www.linkedin.com/company/oeste-hacker-club/)
 
 ________________________________________________________
+## Tarrafa Hacker Clube    <img src="https://github.com/dumonths/logos/blob/main/Tarrafa.png" height="25%" width="25%" alt="Logotipo Tarrafa Hacker Clube">
+Florianópolis - SC
+
+[Site](https://tarrafa.net/) | 
+[Facebook](https://www.facebook.com/TarrafaHC) | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube](https://www.youtube.com/channel/UCs0R96qojyNDGR1bfMl5scw) | 
+[GitHub](https://github.com/tarrafahc) | 
+[Linkedin]()
+
+
+________________________________________________________
+## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC ">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+
+## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+## ABC   <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+## ABC  <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC Makerspace">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+## ABC   <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+
+## ABC   <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+## ABC   <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
+## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC ">
+Endereço
+
+[Site]() | 
+[Facebook]() | 
+[Instagram]() 0 | 
+[Twitter / X]() | 
+[YouTube]() | 
+[GitHub]() | 
+[Linkedin]()
+
+
+________________________________________________________
 
 ## Observações:
 Números na frente do link do Instagram é de seguidores em 11/03/2024.
 
 Não coloquei grupos de Telegram e email devido aos bots.
 
+Hackerspaces brasileiros:
+[Ativos em 2017 segundo Autoria em Rede](https://autoriaemrede.wordpress.com/hackerspaces-no-brasil/lista-dos-hackerspaces-ativos/)
 
+[Registrados na Wiki do Garoa Hacker Clube](https://garoa.net.br/wiki/Hackerspaces_Brasileiros)
 
+[Registrados na Wiki Hackerspaces.org](https://wiki.hackerspaces.org/Brazil)
 
+[Registrados na Wiki do Área 31](https://area31.net.br/wiki/Hackerspaces_brasileiros)
 
 ________________________________________________________
 
