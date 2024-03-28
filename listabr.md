@@ -2,7 +2,7 @@
 
 
 
-## ABC Makerspace
+## ABC Makerspace    <img src="https://github.com/dumonths/logos/blob/main/abc.png" alt="Logotipo ABC Makerspace">
 ABC Paulista - SP
 
 [Site](https://abcmakerspace.com.br/) | 
