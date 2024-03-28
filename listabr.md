@@ -157,8 +157,7 @@ ________________________________________________________
 Endereço:
 
 [site](http://oestehc.com.br/) | 
-[Facebook](https://www.facebook.com/OesteHC
-) | 
+[Facebook](https://www.facebook.com/OesteHC) | 
 [Linkedin](https://www.linkedin.com/company/oeste-hacker-club/)
 
 ________________________________________________________
@@ -167,24 +166,18 @@ Florianópolis - SC
 
 [Site](https://tarrafa.net/) | 
 [Facebook](https://www.facebook.com/TarrafaHC) | 
-[Instagram]() 0 | 
-[Twitter / X]() | 
 [YouTube](https://www.youtube.com/channel/UCs0R96qojyNDGR1bfMl5scw) | 
-[GitHub](https://github.com/tarrafahc) | 
-[Linkedin]()
+[GitHub](https://github.com/tarrafahc)
 
 
 ________________________________________________________
-## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC ">
+## Santos Hacker Clube    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC ">
 Endereço
 
-[Site]() | 
-[Facebook]() | 
-[Instagram]() 0 | 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
-[Linkedin]()
+[Facebook](https://www.facebook.com/groups/606806302692500/) | 
+[Instagram](https://www.instagram.com/santoshackerclube/) 190 | 
+[YouTube](https://www.youtube.com/@shcsantoshackerclube6077) | 
+[GitHub](https://github.com/santos-hacker-clube)
 
 
 ________________________________________________________
