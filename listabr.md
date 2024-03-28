@@ -44,8 +44,8 @@ Araraquara - SP
 [Linkedin](https://www.linkedin.com/company/chap%C3%A9u-de-palha-hacker-club/)
 
 ________________________________________________________
-## Dumont Hackerspace <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC Makerspace">
-O hackerspace dos hackerspaces, esta em eventos por todo o Brasil
+## Dumont Hackerspace <img src="https://github.com/dumonths/logos/blob/main/DUMONT.png" height="25%" width="25%" alt="Logotipo Dumont Hackerspace">
+O hackerspace dos hackerspaces, esta em eventos por todo o Brasil, itinerante.
  
 [Facebook](https://www.facebook.com/DumontHackerspace/) | 
 [Instagram](https://www.instagram.com/dumonths) 1771 | 
