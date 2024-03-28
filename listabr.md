@@ -14,7 +14,7 @@ ABC Paulista - SP
 [Linkedin](https://www.linkedin.com/company/abcmakerspace)
 
 ________________________________________________________
-## Caboré Hackerspace
+## Caboré Hackerspace <img src="https://github.com/dumonths/logos/blob/main/CABORE.png" height="25%" width="25%" alt="Logotipo Caboré Hackerspace">
 Caraúbas - RN
 
 [site](https://www.caborehs.org/) | 
@@ -25,7 +25,7 @@ Caraúbas - RN
 
 
 ________________________________________________________
-## Calango Hacker Clube
+## Calango Hacker Clube  <img src="https://github.com/dumonths/logos/blob/main/CALANGO.png" height="25%" width="25%" alt="Logotipo Calango Hcker Clube">
 Asa Sul - DF
 
 [site](https://www.calango.club) | 
@@ -37,14 +37,14 @@ Asa Sul - DF
 
 
 ________________________________________________________
-## Chapéu de Palha Hacker Club
+## Chapéu de Palha Hacker Club <img src="https://github.com/dumonths/logos/blob/main/CHAPEU.png" height="25%" width="25%" alt="Logotipo Chapéu de Palha Hacker Club">
 Araraquara - SP
 
 [Instagram](https://www.instagram.com/chapeudepalhahackerclub/) 748 | 
 [Linkedin](https://www.linkedin.com/company/chap%C3%A9u-de-palha-hacker-club/)
 
 ________________________________________________________
-## Dumont Hackerspace
+## Dumont Hackerspace <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC Makerspace">
 O hackerspace dos hackerspaces, esta em eventos por todo o Brasil
  
 [Facebook](https://www.facebook.com/DumontHackerspace/) | 
@@ -54,7 +54,7 @@ O hackerspace dos hackerspaces, esta em eventos por todo o Brasil
 ________________________________________________________
 
 
-## Garoa Hacker Clube
+## Garoa Hacker Clube <img src="https://github.com/dumonths/logos/blob/main/GAROA.png" height="25%" width="25%" alt="Logotipo Garoa Hacker Clube">
 São Paulo - SP
 
 [site](https://garoa.net.br/) | 
@@ -65,7 +65,7 @@ São Paulo - SP
 [GitHub](https://github.com/garoa) | 
 [Linkedin](https://www.linkedin.com/company/garoa-hacker-clube/)
 ________________________________________________________
-## GERSE - Grupo de Estudo em Robótica e Sistemas Embarcados
+## GERSE - Grupo de Estudo em Robótica e Sistemas Embarcados <img src="https://github.com/dumonths/logos/blob/main/GERSE.png" height="25%" width="25%" alt="Logotipo GERSE">
 Guarulhos - SP
 
 [site](http://gerserobotica.com/) Offline | 
@@ -74,7 +74,7 @@ Guarulhos - SP
 
 
 ________________________________________________________
-## Laboratório Hacker de Campinas - LHC
+## Laboratório Hacker de Campinas - LHC <img src="https://github.com/dumonths/logos/blob/main/LHC.png" height="25%" width="25%" alt="Logotipo LHC">
 Campinas - SP
 
 [site](https://lhc.net.br/) | 
@@ -86,7 +86,7 @@ Campinas - SP
 [Linkedin](https://www.linkedin.com/company/laboratorio-hacker-de-campinas/) | 
 [PeerTube](https://peertube.lhc.net.br/) | 
 ________________________________________________________
-## Maringá Hackerspace
+## Maringá Hackerspace <img src="https://github.com/dumonths/logos/blob/main/MARINGA21.png" height="25%" width="25%" alt="Logotipo Maringá Hackerspace">
 Maringá - PR
 
 [site](http://wiki.hackerspace.maringa.br/) | 
@@ -97,7 +97,7 @@ Maringá - PR
 
 
 ________________________________________________________
-## Mate Hackers
+## Mate Hackers <img src="https://github.com/dumonths/logos/blob/main/MATE.png" height="25%" width="25%" alt="Logotipo Mate Hackers">
 Porto Alegre - RS
 
 [site](https://matehackers.org/) | 
@@ -106,7 +106,7 @@ Porto Alegre - RS
 
 
 ________________________________________________________
-## Oxe Hacker Club
+## Oxe Hacker Club <img src="https://github.com/dumonths/logos/blob/main/OXE.png" height="25%" width="25%" alt="Logotipo 0xe Hacker Club">
 Maceió - AL
 
 [site](http://oxehacker.club/) | 
@@ -117,7 +117,7 @@ Maceió - AL
 [Linkedin](https://www.linkedin.com/company/0xehackerclub/)
 
 ________________________________________________________
-## Raul Hacker Club
+## Raul Hacker Club <img src="https://github.com/dumonths/logos/blob/main/RAUL.png" height="25%" width="25%" alt="Logotipo Raul Hacker Club">
 Salvador - BA
 
 [site](https://raulhc.cc/) | 
@@ -127,7 +127,7 @@ Salvador - BA
 [Linkedin](https://www.linkedin.com/company/raul-hacker-club/)
 
 ________________________________________________________
-## Rio Maker Space
+## Rio Maker Space <img src="https://github.com/dumonths/logos/blob/main/RIO.png" height="25%" width="25%" alt="Logotipo Rio Maker Space">
 Rio de Janeiro - RJ
 
 [site](https://www.riomakerspace.com.br/) | 
@@ -135,7 +135,7 @@ Rio de Janeiro - RJ
 [Linkedin](https://www.linkedin.com/company/riomakerspace/about/)
 
 ________________________________________________________
-## Teresina Hacker Clube
+## Teresina Hacker Clube <img src="https://github.com/dumonths/logos/blob/main/THC.png" height="25%" width="25%" alt="Logotipo Teresina Hacker Clube">
 Teresina - PI
 
 [site](https://teresinahc.github.io/) | 
