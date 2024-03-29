@@ -1,4 +1,4 @@
-# Lista Hackerspaces - Makerspaces brasileiros
+# Lista Hackerspaces/Makerspaces brasileiros
 
 ## ABC Makerspace 
 
@@ -71,7 +71,7 @@ ________________________________________________________
 ________________________________________________________
 ## GERSE - Grupo de Estudo em Robótica e Sistemas Embarcados 
 
-<img src="https://github.com/dumonths/logos/blob/main/GERSE.png" height="25%" width="25%" alt="Logotipo GERSE"> Guarulhos (Instituto Federal de Cuarulhos) - SP
+<img src="https://github.com/dumonths/logos/blob/main/GERSE.png" height="25%" width="25%" alt="Logotipo GERSE"> Guarulhos (Instituto Federal de Guarulhos) - SP
 
 [site](http://gerserobotica.com/) Offline | 
 [Facebook](https://www.facebook.com/gerserobot) | 
@@ -82,8 +82,7 @@ ________________________________________________________
 ________________________________________________________
 ## LHC - Laboratório Hacker de Campinas
 
-<img src="https://github.com/dumonths/logos/blob/main/LHC.png" height="25%" width="25%" alt="Logotipo LHC">
-Campinas - SP
+<img src="https://github.com/dumonths/logos/blob/main/LHC.png" height="25%" width="25%" alt="Logotipo LHC"> Campinas - SP
 
 [site](https://lhc.net.br/) | 
 [Facebook](https://www.facebook.com/LabHackerCampinas/) | 
@@ -116,7 +115,7 @@ ________________________________________________________
 
 
 ________________________________________________________
-## Oxe Hacker Club 
+## 0xe Hacker Club 
 
 <img src="https://github.com/dumonths/logos/blob/main/OXE.png" height="25%" width="25%" alt="Logotipo 0xe Hacker Club"> Maceió - AL
 
@@ -162,11 +161,22 @@ ________________________________________________________
 
 
 # Só achados pela internet, ainda não consegui contato
+________________________________________________________
+## Cora Coralina Hacker Clube    
 
+<img src="https://github.com/dumonths/logos/blob/main/CORA.png" height="25%" width="25%" alt="Logotipo Cora"> Goiania - GO
+
+[Site](https://corahacker.org/) offline | 
+[Facebook]() | falta
+[Instagram](https://www.instagram.com/corahackerclub/) 78 | 
+[Twitter / X]() | falta
+[YouTube]() | falta
+[GitHub]() | falta
+[Linkedin]()falta
 ________________________________________________________
 
 ## Hackerspace Blumenau    
-<img src="https://github.com/HackerspaceBlumenau/logos/blob/master/capivara.png" height="25%" width="25%" alt="Logotipo ABC">
+<img src="https://github.com/HackerspaceBlumenau/logos/blob/master/capivara.png" height="25%" width="25%" alt="Logotipo Blumenau">
 Blumenau - SC
 
 [Site](https://www.hackerspaceblumenau.org/) | 
@@ -178,7 +188,18 @@ Blumenau - SC
 [Linkedin](https://www.linkedin.com/company/hackerspace-blumenau/)
 
 ________________________________________________________
+## Hackoonspace    
+<img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
+Endereço
 
+[Site](https://www.hackoonspace.com/) | 
+[Facebook](https://www.facebook.com/hackoonspace) | 
+[Instagram](https://www.instagram.com/hackoonspace/) 342 | 
+[Twitter / X](https://twitter.com/hackoonspace) | 
+[YouTube](https://www.youtube.com/@hackoonspace) | 
+[GitHub](https://github.com/hackoonspace) | 
+[Linkedin](https://www.linkedin.com/company/hackoonspace/about/)
+________________________________________________________
 
 ## Londrina Hacker Club
 
@@ -216,35 +237,6 @@ ________________________________________________________
 [Facebook](https://www.facebook.com/TarrafaHC) | 
 [YouTube](https://www.youtube.com/channel/UCs0R96qojyNDGR1bfMl5scw) | 
 [GitHub](https://github.com/tarrafahc)
-
-
-
-
-________________________________________________________
-## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
-Endereço
-
-[Site]() | 
-[Facebook]() | 
-[Instagram]() 0 | 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
-[Linkedin]()
-
-
-________________________________________________________
-## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
-Endereço
-
-[Site]() | 
-[Facebook]() | 
-[Instagram]() 0 | 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
-[Linkedin]()
-
 
 ________________________________________________________
 ## ABC   <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
