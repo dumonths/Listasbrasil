@@ -78,6 +78,7 @@ Guarulhos (Instituto Federal de Cuarulhos) - SP
 [site](http://gerserobotica.com/) Offline | 
 [Facebook](https://www.facebook.com/gerserobot) | 
 [Instagram](https://www.instagram.com/gerserobotica/?igshid=YmMyMTA2M2Y%3D) 255 | 
+[Linkedin](https://www.linkedin.com/in/gerserob%C3%B3ticarob%C3%B3tica/) 
 
 
 ________________________________________________________
@@ -103,6 +104,7 @@ Maringá - PR
 [Instagram](https://www.instagram.com/hackerspacemaringa) 599 | 
 [YouTube](https://www.youtube.com/@hackerspacemaringa2820) | 
 [GitHub](https://github.com/HackerSpaceMaringa) | 
+[Linkedin](https://www.linkedin.com/company/hsmaringa/)
 
 
 ________________________________________________________
