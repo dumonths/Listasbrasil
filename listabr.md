@@ -80,8 +80,9 @@ ________________________________________________________
 
 
 ________________________________________________________
+## LHC - Laboratório Hacker de Campinas
+
 <img src="https://github.com/dumonths/logos/blob/main/LHC.png" height="25%" width="25%" alt="Logotipo LHC">
-## Laboratório Hacker de Campinas - LHC 
 Campinas - SP
 
 [site](https://lhc.net.br/) | 
@@ -93,9 +94,9 @@ Campinas - SP
 [Linkedin](https://www.linkedin.com/company/laboratorio-hacker-de-campinas/) | 
 [PeerTube](https://peertube.lhc.net.br/) | 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/MARINGA21.png" height="25%" width="25%" alt="Logotipo Maringá Hackerspace">
 ## Maringá Hackerspace 
-Maringá - PR
+
+<img src="https://github.com/dumonths/logos/blob/main/MARINGA21.png" height="25%" width="25%" alt="Logotipo Maringá Hackerspace"> Maringá - PR
 
 [site](http://wiki.hackerspace.maringa.br/) | 
 [Facebook](https://www.facebook.com/hackerspacemaringa) | 
@@ -106,18 +107,18 @@ Maringá - PR
 
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/MATE.png" height="25%" width="25%" alt="Logotipo Mate Hackers">
 ## Mate Hackers 
-Porto Alegre - RS
+
+<img src="https://github.com/dumonths/logos/blob/main/MATE.png" height="25%" width="25%" alt="Logotipo Mate Hackers"> Porto Alegre - RS
 
 [site](https://matehackers.org/) |
 [Instagram](https://www.instagram.com/matehackers_/) 267 | 
 
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/OXE.png" height="25%" width="25%" alt="Logotipo 0xe Hacker Club">
 ## Oxe Hacker Club 
-Maceió - AL
+
+<img src="https://github.com/dumonths/logos/blob/main/OXE.png" height="25%" width="25%" alt="Logotipo 0xe Hacker Club"> Maceió - AL
 
 [site](http://oxehacker.club/) | 
 [Facebook](https://www.facebook.com/0xehackerclub/) | 
@@ -127,9 +128,9 @@ Maceió - AL
 [Linkedin](https://www.linkedin.com/company/0xehackerclub/)
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/RAUL.png" height="25%" width="25%" alt="Logotipo Raul Hacker Club">
-## Raul Hacker Club 
-Salvador - BA
+## Raul Hacker Club
+
+<img src="https://github.com/dumonths/logos/blob/main/RAUL.png" height="25%" width="25%" alt="Logotipo Raul Hacker Club"> Salvador - BA
 
 [site](https://raulhc.cc/) | 
 [Facebook](https://www.facebook.com/raulhackerclub) | 
@@ -138,18 +139,18 @@ Salvador - BA
 [Linkedin](https://www.linkedin.com/company/raul-hacker-club/)
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/RIO.png" height="25%" width="25%" alt="Logotipo Rio Maker Space">
 ## Rio Maker Space 
-Rio de Janeiro - RJ
+
+<img src="https://github.com/dumonths/logos/blob/main/RIO.png" height="25%" width="25%" alt="Logotipo Rio Maker Space"> Rio de Janeiro - RJ
 
 [site](https://www.riomakerspace.com.br/) | 
 [Instagram](https://www.instagram.com/rio_maker_space/) 273 | 
 [Linkedin](https://www.linkedin.com/company/riomakerspace/about/)
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/THC.png" height="25%" width="25%" alt="Logotipo Teresina Hacker Clube">
 ## THC - Teresina Hacker Clube 
-Teresina - PI
+
+<img src="https://github.com/dumonths/logos/blob/main/THC.png" height="25%" width="25%" alt="Logotipo Teresina Hacker Clube"> Teresina - PI
 
 [site](https://teresinahc.github.io/) | 
 [Instagram](https://www.instagram.com/teresinahc/) 1074 | 
@@ -163,23 +164,25 @@ ________________________________________________________
 # Só achados pela internet, ainda não consegui contato
 
 ## Londrina Hacker Club
-Londrina - PR
+
+<img src="https://github.com/dumonths/logos/blob/main/LONDRINA.png" height="25%" width="25%" alt="Logotipo Londrina Hacker Clube "> Londrina - PR
 
 [site](https://www.londrinahackerclub.com.br/) | 
 [Linkedin](https://www.linkedin.com/company/londrina-hacker-club/)
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/OHC.png" height="25%" width="25%" alt="Logotipo Oeste Hacker Clube ">
 ## Oeste Hacker Clube
-Bauru - SP
+
+<img src="https://github.com/dumonths/logos/blob/main/OHC.png" height="25%" width="25%" alt="Logotipo Oeste Hacker Clube "> Bauru - SP
 
 [site](http://oestehc.com.br/) | 
 [Facebook](https://www.facebook.com/OesteHC) | 
 [Linkedin](https://www.linkedin.com/company/oeste-hacker-club/)
 
 ________________________________________________________
+## Santos Hacker Clube  
+
 <img src="https://github.com/dumonths/logos/blob/main/SHC.png" height="25%" width="25%" alt="Logotipo SHC">
-## Santos Hacker Clube    
 Santos - SP
 
 [Facebook](https://www.facebook.com/groups/606806302692500/) | 
@@ -188,8 +191,9 @@ Santos - SP
 [GitHub](https://github.com/santos-hacker-clube)
 
 ________________________________________________________
-## Tarrafa Hacker Clube    <img src="https://github.com/dumonths/logos/blob/main/Tarrafa.png" height="25%" width="25%" alt="Logotipo Tarrafa Hacker Clube">
-Florianópolis - SC
+## Tarrafa Hacker Clube    
+
+<img src="https://github.com/dumonths/logos/blob/main/Tarrafa.png" height="25%" width="25%" alt="Logotipo Tarrafa Hacker Clube"> Florianópolis - SC
 
 [Site](https://tarrafa.net/) | 
 [Facebook](https://www.facebook.com/TarrafaHC) | 
