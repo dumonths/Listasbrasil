@@ -202,16 +202,17 @@ ________________________________________________________
 
 ________________________________________________________
 
-## ABC    <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC">
-Endereço
+## Hackerspace Blumenau    
+<img src="https://github.com/HackerspaceBlumenau/logos/blob/master/capivara.png" height="25%" width="25%" alt="Logotipo ABC">
+Blumenau - SC
 
-[Site]() | 
-[Facebook]() | 
-[Instagram]() 0 | 
-[Twitter / X]() | 
-[YouTube]() | 
-[GitHub]() | 
-[Linkedin]()
+[Site](https://www.hackerspaceblumenau.org/) | 
+[Facebook](https://www.facebook.com/hackerspace.blumenau) | 
+[Instagram](https://www.instagram.com/hs.blumenau/) 60 | 
+[Twitter / X](https://twitter.com/hackerspacebnu) | 
+[YouTube](https://www.youtube.com/channel/UCxnv5D-9aVcJO5Ah1Bq072g) | 
+[GitHub](https://github.com/HackerspaceBlumenau) | 
+[Linkedin](https://www.linkedin.com/company/hackerspace-blumenau/)
 
 
 ________________________________________________________
