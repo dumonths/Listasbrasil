@@ -13,9 +13,9 @@
 [Linkedin](https://www.linkedin.com/company/abcmakerspace)
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/CABORE.png" height="25%" width="25%" alt="Logotipo Caboré Hackerspace">
 ## Caboré Hackerspace 
-Caraúbas - RN
+
+<img src="https://github.com/dumonths/logos/blob/main/CABORE.png" height="25%" width="25%" alt="Logotipo Caboré Hackerspace"> Caraúbas - RN
 
 [site](https://www.caborehs.org/) | 
 [Instagram](https://www.instagram.com/caborehackerspace) 70 | 
@@ -25,9 +25,9 @@ Caraúbas - RN
 
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/CALANGO.png" height="25%" width="25%" alt="Logotipo Calango Hcker Clube">
-## Calango Hacker Clube 
-Brasilia - DF
+## Calango Hacker Clube
+
+<img src="https://github.com/dumonths/logos/blob/main/CALANGO.png" height="25%" width="25%" alt="Logotipo Calango Hcker Clube"> Brasilia - DF
 
 [site](https://www.calango.club) | 
 [Facebook](https://www.facebook.com/calangohc) | 
@@ -38,16 +38,18 @@ Brasilia - DF
 
 
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/CHAPEU.png" height="25%" width="25%" alt="Logotipo Chapéu de Palha Hacker Club">
-## Chapéu de Palha Hacker Club 
-Araraquara (Fatec Araraquara) - SP
+## Chapéu de Palha Hacker Club
+
+<img src="https://github.com/dumonths/logos/blob/main/CHAPEU.png" height="25%" width="25%" alt="Logotipo Chapéu de Palha Hacker Club"> Araraquara (Fatec Araraquara) - SP
 
 [Instagram](https://www.instagram.com/chapeudepalhahackerclub/) 748 | 
 [Linkedin](https://www.linkedin.com/company/chap%C3%A9u-de-palha-hacker-club/)
 
 ________________________________________________________
+## Dumont Hackerspace
+
 <img src="https://github.com/dumonths/logos/blob/main/DUMONT.png" height="25%" width="25%" alt="Logotipo Dumont Hackerspace">
-## Dumont Hackerspace 
+ 
 O hackerspace dos hackerspaces, esta em eventos por todo o Brasil, itinerante.
  
 [Facebook](https://www.facebook.com/DumontHackerspace/) | 
@@ -55,11 +57,9 @@ O hackerspace dos hackerspaces, esta em eventos por todo o Brasil, itinerante.
 [Twitter / X](https://twitter.com/dumonths) | 
 [GitHub](https://github.com/dumonths) | 
 ________________________________________________________
+## Garoa Hacker Clube
 
-
-<img src="https://github.com/dumonths/logos/blob/main/GAROA.png" height="25%" width="25%" alt="Logotipo Garoa Hacker Clube">
-## Garoa Hacker Clube 
-São Paulo - SP
+<img src="https://github.com/dumonths/logos/blob/main/GAROA.png" height="25%" width="25%" alt="Logotipo Garoa Hacker Clube"> São Paulo - SP
 
 [site](https://garoa.net.br/) | 
 [Facebook](https://www.facebook.com/GaroaHC/) | 
@@ -69,9 +69,9 @@ São Paulo - SP
 [GitHub](https://github.com/garoa) | 
 [Linkedin](https://www.linkedin.com/company/garoa-hacker-clube/)
 ________________________________________________________
-<img src="https://github.com/dumonths/logos/blob/main/GERSE.png" height="25%" width="25%" alt="Logotipo GERSE">
 ## GERSE - Grupo de Estudo em Robótica e Sistemas Embarcados 
-Guarulhos (Instituto Federal de Cuarulhos) - SP
+
+<img src="https://github.com/dumonths/logos/blob/main/GERSE.png" height="25%" width="25%" alt="Logotipo GERSE"> Guarulhos (Instituto Federal de Cuarulhos) - SP
 
 [site](http://gerserobotica.com/) Offline | 
 [Facebook](https://www.facebook.com/gerserobot) | 
