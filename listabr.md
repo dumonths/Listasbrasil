@@ -2,9 +2,7 @@
 
 ## ABC Makerspace 
 
-<img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC Makerspace">
-   
-São Bernardo do Campo (UFABC SBC) - SP
+<img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC Makerspace"> São Bernardo do Campo (UFABC SBC) - SP
 
 [Site](https://abcmakerspace.com.br/) | 
 [Facebook](https://www.facebook.com/abcmakerspace) | 
