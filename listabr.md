@@ -332,7 +332,5 @@ Hackerspaces brasileiros:
 
 [Registrados na Wiki Hackerspaces.org](https://wiki.hackerspaces.org/Brazil)
 
-[Registrados na Wiki do Área 31](https://area31.net.br/wiki/Hackerspaces_brasileiros)
-
 ________________________________________________________
 
