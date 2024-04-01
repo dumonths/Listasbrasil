@@ -174,8 +174,7 @@ ________________________________________________________
 ________________________________________________________
 
 ## Hackerspace Blumenau    
-<img src="https://github.com/dumonths/logos/blob/main/BLUMENAU.png" height="25%" width="25%" alt="Logotipo Blumenau">
-Blumenau - SC
+<img src="https://github.com/dumonths/logos/blob/main/BLUMENAU.png" height="25%" width="25%" alt="Logotipo Blumenau"> Blumenau - SC
 
 [Site](https://www.hackerspaceblumenau.org/) | 
 [Facebook](https://www.facebook.com/hackerspace.blumenau) 422 | 
@@ -218,8 +217,7 @@ ________________________________________________________
 ________________________________________________________
 ## Santos Hacker Clube  
 
-<img src="https://github.com/dumonths/logos/blob/main/SHC.png" height="25%" width="25%" alt="Logotipo SHC">
-Santos - SP
+<img src="https://github.com/dumonths/logos/blob/main/SHC.png" height="25%" width="25%" alt="Logotipo SHC"> Santos - SP
 
 [Facebook - Grupo](https://www.facebook.com/groups/606806302692500/) 506 | 
 [Instagram](https://www.instagram.com/santoshackerclube/) 190 | 
