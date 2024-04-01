@@ -7,7 +7,7 @@
 [Site](https://abcmakerspace.com.br/) | 
 [Facebook](https://www.facebook.com/abcmakerspace) | 
 [Instagram](https://www.instagram.com/abcmakerspace/) 456 | 
-[Twitter / X](https://twitter.com/abcmakerspace) | 
+[Twitter / X](https://twitter.com/abcmakerspace) 127 | 
 [YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ) 113 | 
 [GitHub](https://github.com/ABCMakerspace) | 
 [Linkedin](https://www.linkedin.com/company/abcmakerspace)
@@ -19,7 +19,7 @@ ________________________________________________________
 
 [site](https://www.caborehs.org/) | 
 [Instagram](https://www.instagram.com/caborehackerspace) 70 | 
-[Twitter / X](https://twitter.com/caborehs) | 
+[Twitter / X](https://twitter.com/caborehs) 3 | 
 [GitHub](https://github.com/caborehs) | 
 
 
@@ -32,7 +32,7 @@ ________________________________________________________
 [site](https://www.calango.club) | 
 [Facebook](https://www.facebook.com/calangohc) | 
 [Instagram](https://www.instagram.com/calangoh4cker/) 1082 | 
-[Twitter / X](https://twitter.com/calangohc) | 
+[Twitter / X](https://twitter.com/calangohc) 456 | 
 [YouTube](https://www.youtube.com/c/+CalangohackerClub) 1440 | 
 
 
@@ -54,7 +54,7 @@ O hackerspace dos hackerspaces, esta em eventos por todo o Brasil, itinerante.
  
 [Facebook](https://www.facebook.com/DumontHackerspace/) | 
 [Instagram](https://www.instagram.com/dumonths) 1771 | 
-[Twitter / X](https://twitter.com/dumonths) | 
+[Twitter / X](https://twitter.com/dumonths) 288 | 
 [GitHub](https://github.com/dumonths) | 
 ________________________________________________________
 ## Garoa Hacker Clube
@@ -64,7 +64,7 @@ ________________________________________________________
 [site](https://garoa.net.br/) | 
 [Facebook](https://www.facebook.com/GaroaHC/) | 
 [Instagram](https://www.instagram.com/garoahc/) 2101 | 
-[Twitter / X](https://twitter.com/garoahc) | 
+[Twitter / X](https://twitter.com/garoahc) 6687 | 
 [YouTube](https://www.youtube.com/channel/UCwY5dKKi8CWsv5_K9csmaew) 653 | 
 [GitHub](https://github.com/garoa) | 
 [Linkedin](https://www.linkedin.com/company/garoa-hacker-clube/)
@@ -87,7 +87,7 @@ ________________________________________________________
 [site](https://lhc.net.br/) | 
 [Facebook](https://www.facebook.com/LabHackerCampinas/) | 
 [Instagram](https://www.instagram.com/lhcnetbr/) 475 | 
-[Twitter / X](https://twitter.com/lhc_campinas) | 
+[Twitter / X](https://twitter.com/lhc_campinas) 1314 | 
 [YouTube](https://www.youtube.com/c/LhcNetBr) 452 | 
 [GitHub](https://github.com/lhc) | 
 [Linkedin](https://www.linkedin.com/company/laboratorio-hacker-de-campinas/) | 
@@ -122,7 +122,7 @@ ________________________________________________________
 [site](http://oxehacker.club/) | 
 [Facebook](https://www.facebook.com/0xehackerclub/) | 
 [Instagram](https://www.instagram.com/0xehackerclub/) 2269 | 
-[Twitter / X](https://twitter.com/0xehackerclub) | 
+[Twitter / X](https://twitter.com/0xehackerclub) 459 | 
 [YouTube](https://www.youtube.com/channel/UCyp9qyOaS9qhJ0lmRcjGesg) 129 | 
 [Linkedin](https://www.linkedin.com/company/0xehackerclub/)
 
@@ -134,7 +134,7 @@ ________________________________________________________
 [site](https://raulhc.cc/) | 
 [Facebook](https://www.facebook.com/raulhackerclub) | 
 [Instagram](https://www.instagram.com/raulhackerclub/) 1328 | 
-[Twitter / X](https://twitter.com/RaulHackerClub) | 
+[Twitter / X](https://twitter.com/RaulHackerClub) 184 | 
 [YouTube](https://www.youtube.com/@raulhackerclub) 30 |
 [Linkedin](https://www.linkedin.com/company/raul-hacker-club/)
 
@@ -154,7 +154,7 @@ ________________________________________________________
 
 [site](https://teresinahc.github.io/) | 
 [Instagram](https://www.instagram.com/teresinahc/) 1074 | 
-[Twitter / X](https://twitter.com/teresinahc) | 
+[Twitter / X](https://twitter.com/teresinahc) 114 | 
 [GitHub](https://github.com/teresinahc) | 
 [Linkedin](https://www.linkedin.com/company/teresina-hacker-clube/)
 
@@ -180,7 +180,7 @@ Blumenau - SC
 [Site](https://www.hackerspaceblumenau.org/) | 
 [Facebook](https://www.facebook.com/hackerspace.blumenau) | 
 [Instagram](https://www.instagram.com/hs.blumenau/) 60 | 
-[Twitter / X](https://twitter.com/hackerspacebnu) | 
+[Twitter / X](https://twitter.com/hackerspacebnu) 127 | 
 [YouTube](https://www.youtube.com/channel/UCxnv5D-9aVcJO5Ah1Bq072g) 465 | 
 [GitHub](https://github.com/HackerspaceBlumenau) | 
 [Linkedin](https://www.linkedin.com/company/hackerspace-blumenau/)
@@ -193,7 +193,7 @@ Endereço
 [Site](https://www.hackoonspace.com/) | 
 [Facebook](https://www.facebook.com/hackoonspace) | 
 [Instagram](https://www.instagram.com/hackoonspace/) 342 | 
-[Twitter / X](https://twitter.com/hackoonspace) | 
+[Twitter / X](https://twitter.com/hackoonspace) 88 | 
 [YouTube](https://www.youtube.com/@hackoonspace) 100 | 
 [GitHub](https://github.com/hackoonspace) | 
 [Linkedin](https://www.linkedin.com/company/hackoonspace/about/)
