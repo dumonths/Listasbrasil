@@ -165,7 +165,7 @@ ________________________________________________________
 ________________________________________________________
 ## Cora Coralina Hacker Clube    
 
-<img src="https://github.com/dumonths/logos/blob/main/CORA.png" height="25%" width="25%" alt="Logotipo Cora"> Goiania - GO
+<img src="https://github.com/dumonths/logos/blob/main/cora.png" height="25%" width="25%" alt="Logotipo Cora"> Goiania - GO
 
 [Site](https://corahacker.org/) offline | 
 [Facebook](https://www.facebook.com/corahackerclub) 435 |
