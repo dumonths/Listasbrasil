@@ -5,7 +5,7 @@
 <img src="https://github.com/dumonths/logos/blob/main/abc.png" height="25%" width="25%" alt="Logotipo ABC Makerspace"> São Bernardo do Campo (UFABC SBC) - SP
 
 [Site](https://abcmakerspace.com.br/) | 
-[Facebook](https://www.facebook.com/abcmakerspace) | 
+[Facebook](https://www.facebook.com/abcmakerspace) 3100 | 
 [Instagram](https://www.instagram.com/abcmakerspace/) 456 | 
 [Twitter / X](https://twitter.com/abcmakerspace) 127 | 
 [YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ) 113 | 
@@ -30,7 +30,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/CALANGO.png" height="25%" width="25%" alt="Logotipo Calango Hcker Clube"> Brasilia - DF
 
 [site](https://www.calango.club) | 
-[Facebook](https://www.facebook.com/calangohc) | 
+[Facebook](https://www.facebook.com/calangohc) 1400 | 
 [Instagram](https://www.instagram.com/calangoh4cker/) 1082 | 
 [Twitter / X](https://twitter.com/calangohc) 456 | 
 [YouTube](https://www.youtube.com/c/+CalangohackerClub) 1440 | 
@@ -52,7 +52,7 @@ ________________________________________________________
  
 O hackerspace dos hackerspaces, esta em eventos por todo o Brasil, itinerante.
  
-[Facebook](https://www.facebook.com/DumontHackerspace/) | 
+[Facebook](https://www.facebook.com/DumontHackerspace/) 1500 | 
 [Instagram](https://www.instagram.com/dumonths) 1771 | 
 [Twitter / X](https://twitter.com/dumonths) 288 | 
 [GitHub](https://github.com/dumonths) | 
@@ -62,7 +62,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/GAROA.png" height="25%" width="25%" alt="Logotipo Garoa Hacker Clube"> São Paulo - SP
 
 [site](https://garoa.net.br/) | 
-[Facebook](https://www.facebook.com/GaroaHC/) | 
+[Facebook](https://www.facebook.com/GaroaHC/) 13000 | 
 [Instagram](https://www.instagram.com/garoahc/) 2101 | 
 [Twitter / X](https://twitter.com/garoahc) 6687 | 
 [YouTube](https://www.youtube.com/channel/UCwY5dKKi8CWsv5_K9csmaew) 653 | 
@@ -74,7 +74,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/GERSE.png" height="25%" width="25%" alt="Logotipo GERSE"> Guarulhos (Instituto Federal de Guarulhos) - SP
 
 [site](http://gerserobotica.com/) Offline | 
-[Facebook](https://www.facebook.com/gerserobot) | 
+[Facebook](https://www.facebook.com/gerserobot) 513 | 
 [Instagram](https://www.instagram.com/gerserobotica/?igshid=YmMyMTA2M2Y%3D) 255 | 
 [Linkedin](https://www.linkedin.com/in/gerserob%C3%B3ticarob%C3%B3tica/) 
 
@@ -85,7 +85,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/LHC.png" height="25%" width="25%" alt="Logotipo LHC"> Campinas - SP
 
 [site](https://lhc.net.br/) | 
-[Facebook](https://www.facebook.com/LabHackerCampinas/) | 
+[Facebook](https://www.facebook.com/lhcnetbr) 2400 | 
 [Instagram](https://www.instagram.com/lhcnetbr/) 475 | 
 [Twitter / X](https://twitter.com/lhc_campinas) 1314 | 
 [YouTube](https://www.youtube.com/c/LhcNetBr) 452 | 
@@ -98,7 +98,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/MARINGA21.png" height="25%" width="25%" alt="Logotipo Maringá Hackerspace"> Maringá - PR
 
 [site](http://wiki.hackerspace.maringa.br/) | 
-[Facebook](https://www.facebook.com/hackerspacemaringa) | 
+[Facebook](https://www.facebook.com/hackerspacemaringa) 807 | 
 [Instagram](https://www.instagram.com/hackerspacemaringa) 599 | 
 [YouTube](https://www.youtube.com/@hackerspacemaringa2820) 14 | 
 [GitHub](https://github.com/HackerSpaceMaringa) | 
@@ -120,7 +120,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/OXE.png" height="25%" width="25%" alt="Logotipo 0xe Hacker Club"> Maceió - AL
 
 [site](http://oxehacker.club/) | 
-[Facebook](https://www.facebook.com/0xehackerclub/) | 
+[Facebook](https://www.facebook.com/0xehackerclub/) 1800 | 
 [Instagram](https://www.instagram.com/0xehackerclub/) 2269 | 
 [Twitter / X](https://twitter.com/0xehackerclub) 459 | 
 [YouTube](https://www.youtube.com/channel/UCyp9qyOaS9qhJ0lmRcjGesg) 129 | 
@@ -132,7 +132,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/RAUL.png" height="25%" width="25%" alt="Logotipo Raul Hacker Club"> Salvador - BA
 
 [site](https://raulhc.cc/) | 
-[Facebook](https://www.facebook.com/raulhackerclub) | 
+[Facebook](https://www.facebook.com/raulhackerclub) 3300 | 
 [Instagram](https://www.instagram.com/raulhackerclub/) 1328 | 
 [Twitter / X](https://twitter.com/RaulHackerClub) 184 | 
 [YouTube](https://www.youtube.com/@raulhackerclub) 30 |
@@ -168,7 +168,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/CORA.png" height="25%" width="25%" alt="Logotipo Cora"> Goiania - GO
 
 [Site](https://corahacker.org/) offline | 
-[Facebook](https://www.facebook.com/corahackerclub) |
+[Facebook](https://www.facebook.com/corahackerclub) 435 |
 [Instagram](https://www.instagram.com/corahackerclub/) 78 | 
 
 ________________________________________________________
@@ -178,7 +178,7 @@ ________________________________________________________
 Blumenau - SC
 
 [Site](https://www.hackerspaceblumenau.org/) | 
-[Facebook](https://www.facebook.com/hackerspace.blumenau) | 
+[Facebook](https://www.facebook.com/hackerspace.blumenau) 422 | 
 [Instagram](https://www.instagram.com/hs.blumenau/) 60 | 
 [Twitter / X](https://twitter.com/hackerspacebnu) 127 | 
 [YouTube](https://www.youtube.com/channel/UCxnv5D-9aVcJO5Ah1Bq072g) 465 | 
@@ -212,7 +212,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/OHC.png" height="25%" width="25%" alt="Logotipo Oeste Hacker Clube "> Bauru - SP
 
 [site](http://oestehc.com.br/) | 
-[Facebook](https://www.facebook.com/OesteHC) | 
+[Facebook](https://www.facebook.com/OesteHC) 495 | 
 [Linkedin](https://www.linkedin.com/company/oeste-hacker-club/)
 
 ________________________________________________________
@@ -221,7 +221,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/SHC.png" height="25%" width="25%" alt="Logotipo SHC">
 Santos - SP
 
-[Facebook](https://www.facebook.com/groups/606806302692500/) | 
+[Facebook - Grupo](https://www.facebook.com/groups/606806302692500/) 506 | 
 [Instagram](https://www.instagram.com/santoshackerclube/) 190 | 
 [YouTube](https://www.youtube.com/@shcsantoshackerclube6077) 57 | 
 [GitHub](https://github.com/santos-hacker-clube)
@@ -232,7 +232,7 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/Tarrafa.png" height="25%" width="25%" alt="Logotipo Tarrafa Hacker Clube"> Florianópolis - SC
 
 [Site](https://tarrafa.net/) | 
-[Facebook](https://www.facebook.com/TarrafaHC) | 
+[Facebook](https://www.facebook.com/TarrafaHC) 2000 | 
 [YouTube](https://www.youtube.com/channel/UCs0R96qojyNDGR1bfMl5scw) 51 | 
 [GitHub](https://github.com/tarrafahc)
 
@@ -318,6 +318,8 @@ Endereço
 ________________________________________________________
 
 ## Observações:
+Números na frente do link do Facebool é de inscritos em 31/03/2024.
+
 Números na frente do link do Instagram é de seguidores em 11/03/2024.
 
 Números na frente do link do YouTube é de inscritos em 31/03/2024.
