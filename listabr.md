@@ -8,7 +8,7 @@
 [Facebook](https://www.facebook.com/abcmakerspace) | 
 [Instagram](https://www.instagram.com/abcmakerspace/) 456 | 
 [Twitter / X](https://twitter.com/abcmakerspace) | 
-[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ) | 
+[YouTube](https://www.youtube.com/channel/UC-llGrye7YYeCX0gTKFbILQ) 113 | 
 [GitHub](https://github.com/ABCMakerspace) | 
 [Linkedin](https://www.linkedin.com/company/abcmakerspace)
 
@@ -33,7 +33,7 @@ ________________________________________________________
 [Facebook](https://www.facebook.com/calangohc) | 
 [Instagram](https://www.instagram.com/calangoh4cker/) 1082 | 
 [Twitter / X](https://twitter.com/calangohc) | 
-[YouTube](https://www.youtube.com/c/+CalangohackerClub) | 
+[YouTube](https://www.youtube.com/c/+CalangohackerClub) 1440 | 
 
 
 
@@ -65,7 +65,7 @@ ________________________________________________________
 [Facebook](https://www.facebook.com/GaroaHC/) | 
 [Instagram](https://www.instagram.com/garoahc/) 2101 | 
 [Twitter / X](https://twitter.com/garoahc) | 
-[YouTube](https://www.youtube.com/channel/UCwY5dKKi8CWsv5_K9csmaew) | 
+[YouTube](https://www.youtube.com/channel/UCwY5dKKi8CWsv5_K9csmaew) 653 | 
 [GitHub](https://github.com/garoa) | 
 [Linkedin](https://www.linkedin.com/company/garoa-hacker-clube/)
 ________________________________________________________
@@ -88,7 +88,7 @@ ________________________________________________________
 [Facebook](https://www.facebook.com/LabHackerCampinas/) | 
 [Instagram](https://www.instagram.com/lhcnetbr/) 475 | 
 [Twitter / X](https://twitter.com/lhc_campinas) | 
-[YouTube](https://www.youtube.com/c/LhcNetBr) | 
+[YouTube](https://www.youtube.com/c/LhcNetBr) 452 | 
 [GitHub](https://github.com/lhc) | 
 [Linkedin](https://www.linkedin.com/company/laboratorio-hacker-de-campinas/) | 
 [PeerTube](https://peertube.lhc.net.br/) | 
@@ -100,7 +100,7 @@ ________________________________________________________
 [site](http://wiki.hackerspace.maringa.br/) | 
 [Facebook](https://www.facebook.com/hackerspacemaringa) | 
 [Instagram](https://www.instagram.com/hackerspacemaringa) 599 | 
-[YouTube](https://www.youtube.com/@hackerspacemaringa2820) | 
+[YouTube](https://www.youtube.com/@hackerspacemaringa2820) 14 | 
 [GitHub](https://github.com/HackerSpaceMaringa) | 
 [Linkedin](https://www.linkedin.com/company/hsmaringa/)
 
@@ -123,7 +123,7 @@ ________________________________________________________
 [Facebook](https://www.facebook.com/0xehackerclub/) | 
 [Instagram](https://www.instagram.com/0xehackerclub/) 2269 | 
 [Twitter / X](https://twitter.com/0xehackerclub) | 
-[YouTube](https://www.youtube.com/channel/UCyp9qyOaS9qhJ0lmRcjGesg) | 
+[YouTube](https://www.youtube.com/channel/UCyp9qyOaS9qhJ0lmRcjGesg) 129 | 
 [Linkedin](https://www.linkedin.com/company/0xehackerclub/)
 
 ________________________________________________________
@@ -135,6 +135,7 @@ ________________________________________________________
 [Facebook](https://www.facebook.com/raulhackerclub) | 
 [Instagram](https://www.instagram.com/raulhackerclub/) 1328 | 
 [Twitter / X](https://twitter.com/RaulHackerClub) | 
+[YouTube](https://www.youtube.com/@raulhackerclub) 30 |
 [Linkedin](https://www.linkedin.com/company/raul-hacker-club/)
 
 ________________________________________________________
@@ -167,12 +168,9 @@ ________________________________________________________
 <img src="https://github.com/dumonths/logos/blob/main/CORA.png" height="25%" width="25%" alt="Logotipo Cora"> Goiania - GO
 
 [Site](https://corahacker.org/) offline | 
-[Facebook]() | falta
+[Facebook](https://www.facebook.com/corahackerclub) |
 [Instagram](https://www.instagram.com/corahackerclub/) 78 | 
-[Twitter / X]() | falta
-[YouTube]() | falta
-[GitHub]() | falta
-[Linkedin]()falta
+
 ________________________________________________________
 
 ## Hackerspace Blumenau    
@@ -183,7 +181,7 @@ Blumenau - SC
 [Facebook](https://www.facebook.com/hackerspace.blumenau) | 
 [Instagram](https://www.instagram.com/hs.blumenau/) 60 | 
 [Twitter / X](https://twitter.com/hackerspacebnu) | 
-[YouTube](https://www.youtube.com/channel/UCxnv5D-9aVcJO5Ah1Bq072g) | 
+[YouTube](https://www.youtube.com/channel/UCxnv5D-9aVcJO5Ah1Bq072g) 465 | 
 [GitHub](https://github.com/HackerspaceBlumenau) | 
 [Linkedin](https://www.linkedin.com/company/hackerspace-blumenau/)
 
@@ -196,7 +194,7 @@ Endereço
 [Facebook](https://www.facebook.com/hackoonspace) | 
 [Instagram](https://www.instagram.com/hackoonspace/) 342 | 
 [Twitter / X](https://twitter.com/hackoonspace) | 
-[YouTube](https://www.youtube.com/@hackoonspace) | 
+[YouTube](https://www.youtube.com/@hackoonspace) 100 | 
 [GitHub](https://github.com/hackoonspace) | 
 [Linkedin](https://www.linkedin.com/company/hackoonspace/about/)
 ________________________________________________________
@@ -225,7 +223,7 @@ Santos - SP
 
 [Facebook](https://www.facebook.com/groups/606806302692500/) | 
 [Instagram](https://www.instagram.com/santoshackerclube/) 190 | 
-[YouTube](https://www.youtube.com/@shcsantoshackerclube6077) | 
+[YouTube](https://www.youtube.com/@shcsantoshackerclube6077) 57 | 
 [GitHub](https://github.com/santos-hacker-clube)
 
 ________________________________________________________
@@ -235,7 +233,7 @@ ________________________________________________________
 
 [Site](https://tarrafa.net/) | 
 [Facebook](https://www.facebook.com/TarrafaHC) | 
-[YouTube](https://www.youtube.com/channel/UCs0R96qojyNDGR1bfMl5scw) | 
+[YouTube](https://www.youtube.com/channel/UCs0R96qojyNDGR1bfMl5scw) 51 | 
 [GitHub](https://github.com/tarrafahc)
 
 ________________________________________________________
@@ -321,6 +319,8 @@ ________________________________________________________
 
 ## Observações:
 Números na frente do link do Instagram é de seguidores em 11/03/2024.
+
+Números na frente do link do YouTube é de inscritos em 31/03/2024.
 
 Não coloquei grupos de Telegram e email devido aos bots.
 
