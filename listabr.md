@@ -174,7 +174,7 @@ ________________________________________________________
 ________________________________________________________
 
 ## Hackerspace Blumenau    
-<img src="https://github.com/HackerspaceBlumenau/logos/blob/master/capivara.png" height="25%" width="25%" alt="Logotipo Blumenau">
+<img src="https://github.com/dumonths/logos/blob/main/BLUMENAU.png" height="25%" width="25%" alt="Logotipo Blumenau">
 Blumenau - SC
 
 [Site](https://www.hackerspaceblumenau.org/) | 
